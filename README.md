@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repository
+My first repository is taking a long time to set up.
